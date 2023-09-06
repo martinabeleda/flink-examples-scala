@@ -3,3 +3,4 @@ dependency-reduced-pom.xml
 *iml
 .idea
 derby.log
+/flink-1.17.1/
